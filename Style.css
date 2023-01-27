@@ -1,0 +1,23 @@
+body{
+
+    background-color: rgb(23, 31, 40);
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: snow;
+
+    /* Fancy Colour with outline on modern browser, overwrites default above when supported */
+    -webkit-text-fill-color: white;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+header{
+    border-bottom: solid 1px snow;
+    margin: auto;
+    width: auto;
+    padding: 1%;
+    text-align: center;
+}
+h1{
+    font-size: 48px;
+
+}
