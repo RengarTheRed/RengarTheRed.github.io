@@ -22,8 +22,8 @@ title: Your awesome title
 email: d.osborne675@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Portfolio Site for Game Developer David Osborne (RengarTheRed).
-baseurl: "rengarthered.github.io"
 url: "http://rengarthered.github.io/"
+baseurl: "rengarthered.github.io"
 twitter_username: 
 github_username:  
 
